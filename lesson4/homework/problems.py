@@ -11,8 +11,6 @@ if user_test >= 50 and user_test_1 >= 50:
 else:
     print("You failed the one of the tests or you failed both")
 
-
-
 # Problem 2
 # Ask user if they brought lunch and water (yes/no).
 # If they brought lunch OR water, print "You're somewhat ready."
@@ -39,6 +37,7 @@ if user_int >= 1 and user_int <= 10:
     print(f"The number {user_int} is in range")
 else:
     print(f"The number {user_int} is out of range")
+
 # Problem 4
 # Generate a random number between 1 and 10.
 # Ask the user to guess.
@@ -55,8 +54,6 @@ elif random_guess == random_number or random_number == 5:
    print("Nice try")
 else:
    print("Nope")
-
-
 
 
 # Problem 5
