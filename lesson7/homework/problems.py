@@ -24,7 +24,7 @@ for i in range(len(numbers)):
     if numbers[i] > max_num and numbers[i] < 100:
         max_num = numbers[i]
 print(max_num)
-        
+    
 # Problem 4
 # Find and print the biggest number in the list.
 numbers = [12, 7, 33, 5]
